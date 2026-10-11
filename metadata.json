@@ -1,0 +1,6 @@
+{
+  "name": "دليل أطباء البصرة",
+  "description": "دليل أطباء البصرة — موقع وتطبيق احترافي للبحث عن الأطباء في محافظة البصرة مع فلاتر الاختصاصات والمناطق والخرائط ولوحة إدارة لرفع ملفات Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
